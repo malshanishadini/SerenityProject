@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="tests.CreateUserTest" skipped="0" tests="2" time="9.3" timestamp="2021-06-13 08:52:47"><testcase classname="tests.CreateUserTest" name="Verify get details of single user"><failure message="expected:&lt;200&gt; but was:&lt;404&gt;" type="java.lang.AssertionError">expected:&lt;200&gt; but was:&lt;404&gt;</failure><system-err>expected:&lt;200&gt; but was:&lt;404&gt;&#13;
+SerenityProject1@1.0-SNAPSHOT/steps.CreateUserSteps.thenResponseCodeShouldBe(CreateUserSteps.java:48)&#13;
+SerenityProject1@1.0-SNAPSHOT/tests.CreateUserTest.verifyGetDetailsOfSingleUser(CreateUserTest.java:38)&#13;
+</system-err></testcase><testcase classname="tests.CreateUserTest" name="Verify create a new user with valid name and job"/></testsuite>
